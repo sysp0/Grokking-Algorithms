@@ -1,6 +1,3 @@
-# Grokking-Algorithms
-I created this repository to save my notes on 'Grokking Algorithms' and practice Python programming.
-
 # Grokking Algorithms Notes
 [ 🇬🇧English](https://github.com/sysp0/Grokking-Algorithms/blob/main/README.md) | [🇮🇷فارسی](https://github.com/sysp0/Grokking-Algorithms/blob/main/README_FA.md)
 
